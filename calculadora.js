@@ -60,33 +60,3 @@ function tabla (n) {
    console.log(i * n);
  }
 }
-
-console.log("Modulo del rectangulo.");
-
-console.log(" ");
-
-rectangulo(10, 10);
-
-console.log(" ");
-
-console.log("Modulo del triangulo.");
-
-console.log(" ");
-
-triangulo(10, 10);
-
-console.log(" ");
-
-console.log("Modulo del circulo.");
-
-console.log(" ");
-
-circulo(10);
-
-console.log(" ");
-
-console.log("Tabla del -5.5");
-
-console.log(" ");
-
-tabla(-5.5);
